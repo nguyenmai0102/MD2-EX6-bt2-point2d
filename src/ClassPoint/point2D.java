@@ -1,4 +1,4 @@
-package classPoint;
+package ClassPoint;
 
 public class point2D {
     private float x =0.0f;
